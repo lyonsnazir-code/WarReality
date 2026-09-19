@@ -1,15 +1,13 @@
-name: Polymarket Trader
+name: Genesis Node Runner
 
 on:
-  workflow_dispatch: # Allows manual triggers
-  schedule:
-    - cron: '*/30 * * * *' # Optional: runs automatically every 30 minutes
+  workflow_dispatch:
 
 jobs:
-  run-trader:
+  run-bot:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -17,16 +15,16 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install py-clob-client requests websockets
 
-      - name: Run automated trader script
+      - name: Run Arbitrage Script
         env:
           POLY_PRIVATE_KEY: ${{ secrets.POLY_PRIVATE_KEY }}
           POLY_API_KEY: ${{ secrets.POLY_API_KEY }}
           POLY_API_SECRET: ${{ secrets.POLY_API_SECRET }}
           POLY_API_PASSPHRASE: ${{ secrets.POLY_API_PASSPHRASE }}
-        run: |
-          python autonomous_trader.py
+          GAMMA_API_KEY: ${{ secrets.GAMMA_API_KEY }}
+        run: python autonomous_trader.py

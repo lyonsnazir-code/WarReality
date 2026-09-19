@@ -4,7 +4,7 @@ from datetime import datetime
 from osint_scraper import fetch_osint_headlines
 from knowledge_graph import log_event
 from alert_dispatcher import generate_and_push_directive
-from executor import execute_autonomous_order
+from executor import run_production_loop as execute_autonomous_order
 
 def run_daemon():
     print("[WARREALITY ENGINE] Node 00 Daemon Operational.")

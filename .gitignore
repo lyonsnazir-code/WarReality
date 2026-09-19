@@ -1,0 +1,7 @@
+data/*.db
+data/*.duckdb
+data/*.sqlite
+backups/
+*.env
+*.key
+venv/

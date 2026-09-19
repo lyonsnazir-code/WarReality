@@ -1,0 +1,1 @@
+from urllib.parse import quote_plus  -c "with open('osint_scraper.py', 'w', encoding='utf-8') as f:\n    f.write('import requests\nfrom bs4 import BeautifulSoup\nfrom urllib.parse import quote_plus\n\ndef fetch_osint_headlines(query, max_results=5):\n    encoded_query = quote_plus(query)\n    url = f\"https://news.google.com/rss/search?q={encoded_query}

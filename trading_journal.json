@@ -1,0 +1,5058 @@
+[
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 10.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 10.15,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 10.3,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 10.45,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 10.6,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 10.75,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 10.9,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 11.05,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 11.2,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 11.35,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 11.5,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 11.65,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 11.8,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 11.95,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 12.1,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 12.25,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 12.4,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 12.55,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 12.7,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 12.85,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 13.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 13.15,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 13.3,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 13.45,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 13.6,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 13.75,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 13.9,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 14.05,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 14.2,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 14.35,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 14.5,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 14.65,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 14.8,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 14.95,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 15.1,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 15.25,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 15.4,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 15.55,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 15.7,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 15.85,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 16.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 16.15,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 16.3,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 16.45,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 16.6,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 16.75,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 16.9,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 17.05,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 17.2,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 17.35,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 17.5,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 17.65,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 17.8,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 17.95,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 18.1,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 18.25,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 18.4,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 18.55,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 18.7,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 18.85,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 19.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 19.15,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 19.3,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 19.45,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 19.6,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 19.75,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 19.9,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 20.05,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 20.2,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 20.35,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 20.5,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 20.65,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 20.8,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 20.95,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 21.1,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 21.25,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 21.4,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 21.55,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 21.7,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 21.85,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 22.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 22.15,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 22.3,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 22.45,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 22.6,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 22.75,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 22.9,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 23.05,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 23.2,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 23.35,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 23.5,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 23.65,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 23.8,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 23.95,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 24.1,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 24.25,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 24.4,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 24.55,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 24.7,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 24.85,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 25.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 25.15,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 25.3,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 25.45,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 25.6,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 25.75,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 25.9,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 26.05,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 26.2,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 26.35,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 26.5,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 26.65,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 26.8,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 26.95,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 27.1,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 27.25,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 27.4,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 27.55,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 27.7,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 27.85,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 28.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 28.15,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 28.3,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 28.45,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 28.6,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 28.75,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 28.9,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 29.05,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 29.2,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 29.35,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 29.5,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 29.65,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 29.8,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 29.95,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 30.1,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 30.25,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 30.4,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 30.55,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 30.7,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 30.85,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 31.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 31.15,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 31.3,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 31.45,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 31.6,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 31.75,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 31.9,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 32.05,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 32.2,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 32.35,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 32.5,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 32.65,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 32.8,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 32.95,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 33.1,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 33.25,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 33.4,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 33.55,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 33.7,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 33.85,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 34.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 34.15,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 34.3,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 34.45,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 34.6,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 34.75,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 34.9,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 35.05,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 35.2,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 35.35,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 35.5,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 35.65,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 35.8,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 35.95,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 36.1,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 36.25,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 36.4,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 36.55,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 36.7,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 36.85,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 37.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 37.15,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 37.3,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 37.45,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 37.6,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 37.75,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 37.9,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 38.05,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 38.2,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 38.35,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 38.5,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 38.65,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 38.8,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 38.95,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 39.1,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 39.25,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 39.4,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 39.55,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 39.7,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 39.85,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 40.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 40.15,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 40.3,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 40.45,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 40.6,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 40.75,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 40.9,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 41.05,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 41.2,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 41.35,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 41.5,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 41.65,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 41.8,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 41.95,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 42.1,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 42.25,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 42.4,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 42.55,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 42.7,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 42.85,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 43.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 43.15,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 43.3,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 43.45,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 43.6,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 43.75,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 43.9,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 44.05,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 44.2,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 44.35,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 44.5,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 44.65,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 44.8,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 44.95,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 45.1,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 45.25,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 45.4,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 45.55,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 45.7,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 45.85,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 46.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 46.15,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 46.3,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 46.45,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 46.6,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 46.75,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 46.9,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 47.05,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 47.2,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 47.35,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 47.5,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 47.65,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 47.8,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 47.95,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 48.1,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 48.25,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 48.4,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 48.55,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 48.7,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 48.85,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 49.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 49.15,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 49.3,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 49.45,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 49.6,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 49.75,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 49.9,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.265,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x3be6a50ef2fae0f4e3b8f69e3f45666d8932779a1ba754ba74e1ff4bcddcb359",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.235,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xddf88ab477eee3a6d68c8812b0a60492488c3df4eb0c5285f5857a50262b7ea4",
+        "side": "Karmine Corp",
+        "size_usdc": 50.0,
+        "entry_price": 0.255,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+        "side": "Aurora Gaming",
+        "size_usdc": 50.0,
+        "entry_price": 0.35,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xe51380f388c609242cc1b594b616a0f017350163c83a8187edb8fde59aba6ff8",
+        "side": "Clemson",
+        "size_usdc": 50.0,
+        "entry_price": 0.1,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.062,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+        "side": "Yes",
+        "size_usdc": 50.0,
+        "entry_price": 0.248,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    },
+    {
+        "market_id": "0xc138e6f013eb7a5c0a4e29c8e3744e7f31431a2e05b2fc6eb06f8f3466a6f92e",
+        "side": "No",
+        "size_usdc": 50.0,
+        "entry_price": 0.16,
+        "exit_price": 0.6,
+        "pnl_usdc": 1.5
+    }
+]

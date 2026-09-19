@@ -24,7 +24,9 @@ jobs:
 
       - name: Run automated trader script
         env:
-          GAMMA_API_KEY: ${{ secrets.GAMMA_API_KEY }}
-          # Add any other required private keys or API variables here
+          POLY_PRIVATE_KEY: ${{ secrets.POLY_PRIVATE_KEY }}
+          POLY_API_KEY: ${{ secrets.POLY_API_KEY }}
+          POLY_API_SECRET: ${{ secrets.POLY_API_SECRET }}
+          POLY_API_PASSPHRASE: ${{ secrets.POLY_API_PASSPHRASE }}
         run: |
           python autonomous_trader.py
